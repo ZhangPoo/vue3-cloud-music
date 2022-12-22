@@ -127,7 +127,7 @@ const handleArrowClick = (type: 'next' | 'prev') => {
     </div>
     <!-- 推荐歌单 -->
     <p class="pb-4 text-xl">
-      推荐歌单
+      推荐歌单123123
     </p>
     <SongListSkeleton v-if="SongsListIsLoading" />
     <SongList
